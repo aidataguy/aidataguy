@@ -1,4 +1,4 @@
-# Hi there, I'm Aidataguy! 👋
+# Hi there, I'm Himanshu aka Aidataguy! 👋
 
 I'm a passionate data enthusiast and software developer with a strong interest in AI, machine learning, and data analysis. Welcome to my GitHub profile!
 
